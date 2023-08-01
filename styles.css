@@ -1,0 +1,18 @@
+/*selecciona el elemento body de index.htm y le aplica estilo al contenido*/
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: o;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(158, 45, 37);
+    color: #fff;
+    text-align: center;
+    padding: 1px;
+}
+
+h2{
+    color: #cde01e
+}
